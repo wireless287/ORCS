@@ -1,5 +1,5 @@
 ORCS
-    This code base is for a Java application.  It is capable of running on anymachine use JRE 1.7+.
+    This code base is for a Java application.  It is capable of running on any machine use JRE 1.7+.
 
 Setup:
 The code can be built and simulated by following the below instructions:
